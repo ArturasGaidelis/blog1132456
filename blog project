@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: white;
+  text-align: left;
+  color: black;
+  font-family: Times New Roman ;
+}
+</style>
+</head>
+<body>
+
+<img src= "https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-0/c0.69.206.206a/p206x206/37275256_486199491833010_2212845327893921792_n.jpg?_nc_cat=105&ccb=2&_nc_sid=da31f3&_nc_ohc=yytIgIlmObcAX8HmWe8&_nc_ht=scontent.fvno2-1.fna&tp=27&oh=3838a08c18fa373a6991c9e0b187d321&oe=5FB9B272" alt= "Mano nuotrauka" style="width:200px" />
+<h1>Artūras Gaidelis</h1>
+<b><p>Vartotojo vardas: </b> Arturas</p>
+<b><p>Narys nuo: </b> 2016-09-07</p>
+<b><p>Tinklapis: </b> <a href= "https://www.youtube.com/">Youtube</a></p>
+<b><p>Facebook: </b> <a href="https://www.facebook.com/arturas.gaidelis.3">My facebook</a></p>
+<b><p>Bio: </b> Esu mokinys 10 klasės ir mokausiu Vilniaus privačioje mokykloje.Keletą faktų apie mane:</p>
+
+<ul>
+    <li>Lankau tinklinį ir mėgstu jį žaisti </li>
+    <li>Mėgstu žaisti žaidimus</li>
+    <li>Stengiuosiu gerai mokytis</li>
+</ul>
+
+<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-9/37270822_486199635166329_5253380142771732480_n.jpg?_nc_cat=106&ccb=2&_nc_sid=8bfeb9&_nc_ohc=cWArVoZ553oAX9cLxOF&_nc_ht=scontent.fvno2-1.fna&oh=b3aede02cc35839d23f099196691a4a1&oe=5FBCDE00" alt="Mano nuotrauka" style="width:200px"/>
+<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-9/37234329_486199631832996_4388485686269837312_n.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_ohc=mffYfDeeL9oAX8a-vti&_nc_ht=scontent.fvno2-1.fna&oh=2d434e3ed16c4698ff13c1b81b371377&oe=5FBB6B9C" alt="Mano nuotrauka" style="width:200px"/>
+<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-9/37268885_486199505166342_1556571374422589440_n.jpg?_nc_cat=108&ccb=2&_nc_sid=8bfeb9&_nc_ohc=TRmb6ccEqegAX-cOsts&_nc_ht=scontent.fvno2-1.fna&oh=9aaa8d15dd2d51630726d61674b50b1d&oe=5FB9B659" alt="Mano nuotrauka" style="width:200px"/>
+<img src="https://scontent.fvno2-1.fna.fbcdn.net/v/t1.0-9/37305912_486199621832997_3882666528826458112_n.jpg?_nc_cat=108&ccb=2&_nc_sid=8bfeb9&_nc_ohc=C4hknCUYmSEAX8Sltiu&_nc_ht=scontent.fvno2-1.fna&oh=31e1dd6fe63763b3c066d8a971da3097&oe=5FBD182F" alt="Mano nuotrauka" style="width:200px"/>
+</body>
+</html>
